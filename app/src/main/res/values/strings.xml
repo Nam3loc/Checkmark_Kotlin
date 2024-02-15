@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkmark Splash Art</string>
+    <string name="tasks">All tasks completed</string>
+    <string name="congrats">Nice work!</string>
+</resources>
